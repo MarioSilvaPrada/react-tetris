@@ -6,5 +6,5 @@ export const createStage = () =>
     new Array(STAGE_WIDTH).fill([0, "clear"])
   );
 
-//   19:00
+//   35:22
 // https://www.youtube.com/watch?v=ZGOaCxX8HIU
